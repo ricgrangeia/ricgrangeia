@@ -6,10 +6,13 @@ Frameworks: started with Joomla, wordpress, OpenCart, PrestaShop, Yii1 and Yii2.
 
 ### Skills
 #### 2023
-PHP 80%, Pithon 20%
-SQL, Mysql, Mariadb
-Yii1.1 80%, Yii2 80%, FastAPI 20%
-Docker 60%, Portainer 70%, Vue 30%
+- PHP
+- SQL, Mysql, Mariadb
+- Yii1.1, Yii2, FastAPI
+- Docker, Portainer, Vue
+
+- 🌱 I’m currently learning:
+- Pithon, vue
 
 <!--
 **ricgrangeia/ricgrangeia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
