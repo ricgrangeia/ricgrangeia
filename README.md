@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Programmer since 2008.
+Worked mainly with PHP, Mysql, Html, Css, JS, JQuery.
+Frameworks: started with Joomla, wordpress, OpenCart, PrestaShop, Yii1 and Yii2.
+
 <!--
 **ricgrangeia/ricgrangeia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
