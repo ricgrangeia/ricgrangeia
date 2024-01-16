@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-### Programmer since 2008.
+I am a Programmer since 2008.
 Worked mainly with PHP, Mysql, Html, Css, JS, JQuery.
 Frameworks: started with Joomla, wordpress, OpenCart, PrestaShop, Yii1 and Yii2.
+
+### Skills
+#### 2023
+PHP 80%, Pithon 20%
+SQL, Mysql, Mariadb
+Yii1.1 80%, Yii2 80%, FastAPI 20%
+Docker 60%, Portainer 70%, Vue 30%
 
 <!--
 **ricgrangeia/ricgrangeia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
