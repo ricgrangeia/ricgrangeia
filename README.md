@@ -5,14 +5,21 @@ Worked mainly with PHP, Mysql, Html, Css, JS, JQuery.
 Frameworks: started with Joomla, wordpress, OpenCart, PrestaShop, Yii1 and Yii2.
 
 ### Skills
-#### 2023
+#### as Programmer
 - PHP
 - SQL, Mysql, Mariadb
-- Yii1.1, Yii2, FastAPI
-- Docker, Portainer, Vue
+- Yii 1 & Yii 2
 
-- 🌱 I’m currently learning:
-- Pithon, vue
+#### as DevOps
+- Docker, Portainer
+- Gitlab CI/DI
+- VPS config & management
+
+### Aquiring
+- Go
+- Vue
+
+
 
 <!--
 **ricgrangeia/ricgrangeia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
