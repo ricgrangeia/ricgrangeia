@@ -15,6 +15,20 @@ Frameworks: started with Joomla, wordpress, OpenCart, PrestaShop, Yii1 and Yii2.
 - Gitlab CI/DI
 - VPS config & management
 
+#### as AI Agents Constructor
+- All in Docker
+- Models Service
+- Qdrant Vector Database
+- FastApi for Tools and LangGraph
+- WebUI Chat with Model Service
+
+#### New Project Ai Enterprise Managment
+- Supervisor (Main Model) Decide what to do and to who to send
+- Sub Model - Email Assistant
+- Sub Model - Documents Assistant Vault
+- Sub Model - knowledge Assistant - All Company Way of doing things
+- Sub Model - Financial Assistant - Make invoices and send them 
+
 ### Aquiring
 - Go
 - Vue
