@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Ricardo! 👋 ⚡️
 
-I am a Programmer since 2008.
+### 🌈 About Me
+I am a developer since 2008, who believes that **great code** starts with **great communication**. I don't just build apps; I build environments where teams thrive!
+
+* **Positive Energy:** I bring a "can-do" attitude to every stand-up and code review.
+* **Empathy-Driven:** I value understanding the "why" behind user needs and teammate challenges.
+* **Team First:** I’m a firm believer that a happy team writes the best code.
+
 Worked mainly with PHP, Mysql, Html, Css, JS, JQuery.
 Frameworks: started with Joomla, wordpress, OpenCart, PrestaShop, Yii1 and Yii2.
 
